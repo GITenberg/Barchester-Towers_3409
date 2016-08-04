@@ -1,0 +1,46 @@
+_repo: Barchester-Towers_3409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Barchester Towers, published in 1857, is the second novel in Anthony\
+  \ Trollope's series known as the \"Chronicles of Barsetshire\". Among other things\
+  \ it satirises the then raging antipathy in the Church of England between High Church\
+  \ and Evangelical adherents. Trollope began writing this book in 1855. He wrote\
+  \ constantly, and made himself a writing-desk so he could continue writing while\
+  \ travelling by train. \"Pray know that when a man begins writing a book he never\
+  \ gives over,\" he wrote in a letter during this period. \"The evil with which he\
+  \ is beset is as inveterate as drinking – as exciting as gambling.\" And, years\
+  \ later in his autobiography, he observed \"In the writing of Barchester Towers\
+  \ I took great delight. The bishop and Mrs. Proudie were very real to me, as were\
+  \ also the troubles of the archdeacon and the loves of Mr. Slope.\" But when he\
+  \ submitted his finished work, his publisher, William Longman, initially turned\
+  \ it down, finding much of it to be full of \"vulgarity and exaggeration\". More\
+  \ recent critics offer a more sanguine opinion. \"Barchester Towers is many readers'\
+  \ favourite Trollope\", wrote The Guardian, which included it in its list of \"\
+  1000 novels everyone must read\".\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3409'
+  wikidata: Q4859885
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Barsetshire (England: Imaginary place) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Barchester (England : Imaginary place) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Barchester Towers
+url: http://www.gutenberg.org/ebooks/3409
+wikipedia:
+- https://en.wikipedia.org/wiki/Barchester_Towers
