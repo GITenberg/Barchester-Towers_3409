@@ -1,5 +1,8 @@
 _repo: Barchester-Towers_3409
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -24,6 +27,8 @@ description: "Barchester Towers, published in 1857, is the second novel in Antho
   \ recent critics offer a more sanguine opinion. \"Barchester Towers is many readers'\
   \ favourite Trollope\", wrote The Guardian, which included it in its list of \"\
   1000 novels everyone must read\".\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3409#Barchester-Towers
 gutenberg_issued: '2002-09-01'
 gutenberg_type: Text
 identifiers:
